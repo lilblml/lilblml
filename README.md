@@ -15,7 +15,7 @@
 
 ### Web technologies
 
-- JavaScript
+- Java
 - HTML
 
 ### Productivity utilities
